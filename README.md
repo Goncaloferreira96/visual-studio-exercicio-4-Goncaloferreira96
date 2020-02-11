@@ -6,3 +6,5 @@ visual-studio-exercicio-4-Goncaloferreira96 created by GitHub Classroom
 
 06-02-2020 Descrição: Criação de um novo ISSUE -> - Adicionar outra operação aritmética (à sua escolha);
                                                   - Questionar o utilizador sobre qual a operação que pretende realizar.
+
+11-02-2020 Descrição: Fechei o ISSUE que criei com o intuito de pedir ajuda ao colaborador que tinha adicionado ao meu repositório, no entanto quem desempenhou esta tarefa foi o Francisco em vez do Alberto.
